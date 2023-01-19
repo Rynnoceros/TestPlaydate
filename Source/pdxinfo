@@ -1,0 +1,5 @@
+name=Test
+author=Jordan SOUBRIER
+description=Draw text example code
+bundleID=com.soubrier.test
+imagePath=image/

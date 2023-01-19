@@ -1,0 +1,7 @@
+name=Test
+author=Jordan SOUBRIER
+description=Draw text example code
+bundleID=com.soubrier.test
+imagePath=image/
+pdxversion=11000
+buildtime=704501318
